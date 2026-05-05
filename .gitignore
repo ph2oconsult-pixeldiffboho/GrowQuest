@@ -1,0 +1,8 @@
+node_modules/
+dist/
+.DS_Store
+*.local
+.env
+.env.*
+sample_certificate*.pdf
+__pycache__/
