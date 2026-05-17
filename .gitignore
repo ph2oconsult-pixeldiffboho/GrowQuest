@@ -1,0 +1,21 @@
+node_modules/
+dist/
+.DS_Store
+*.local
+.env
+.env.*
+sample_certificate*.pdf
+__pycache__/
+
+# Playwright + test outputs
+playwright-report/
+test-results/
+.playwright/
+GrowQuest_Certificate_Test_*.pdf
+
+# Editor + OS detritus
+.vscode/
+.idea/
+*.swp
+*.swo
+Thumbs.db
